@@ -1,7 +1,7 @@
 # reactiveRates
 
 
-Run:
+Run:  
 java -jar reactiveTracker-1.0.0-SNAPSHOT-fat.jar -conf conf.json
 
 
